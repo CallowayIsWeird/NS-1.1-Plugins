@@ -8,7 +8,7 @@ Current plugins are as follows:
 
 - Return command (admin command, for RDM and whatnot)
 
-- Flag Assignment for addons (toggleable, customizable)
+- Flag Assignment for admins (toggleable, customizable)
 
 - Government commands (hugely customizable, makes governing RP servers WAY easier.)
 
