@@ -1,10 +1,12 @@
 # NS-1.1-Plugins
 
-4 plugins with a HUGE amount of customization ability.
+5 plugins with a HUGE amount of customization ability.
 
 Current plugins are as follows:
 
 - Welcome message (toggleable, customizable)
+
+- Medical Bills. (Customizable, toggleable)
 
 - Return command (admin command, for RDM and whatnot)
 
